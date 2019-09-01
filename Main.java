@@ -113,7 +113,8 @@ public class Main {
                   gameMap.isGameOver = true;
               }
           }
-        System.out.println("Gracias Por Jugar....");
+        System.out.println("Gracias Por Jugar este juego....");
+        
 
     }
 }
