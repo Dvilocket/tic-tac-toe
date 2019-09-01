@@ -4,6 +4,7 @@ public class Map {
      Cells mapCell[][] = new Cells[3][3];
      boolean isGameOver;
 
+
     //Methods
       Map(){
           generateMap();

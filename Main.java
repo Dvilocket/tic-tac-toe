@@ -113,9 +113,7 @@ public class Main {
                   gameMap.isGameOver = true;
               }
           }
-          //Seguir Aca para reiniciar el juego
-        System.out.println("Gracias Por Jugar Este Juego");
-        System.out.println("Espero verte en 5 minutos");
-        System.out.println("Hola A Todos");
+        System.out.println("Gracias Por Jugar....");
+
     }
 }
